@@ -1,4 +1,4 @@
-# RV Supplies Product Data Extraction README
+# RV Supplies Product Data Extraction
 
 ## Overview
 This script is designed to automate the process of extracting detailed product information from the RV Supplies website. It fetches data for a range of product IDs, parsing and organizing product details, specifications, images, and documents into a structured Excel workbook. This document serves as a comprehensive guide to setting up, understanding, and running the script to obtain product data efficiently.
