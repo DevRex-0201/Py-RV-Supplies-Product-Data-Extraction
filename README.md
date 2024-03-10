@@ -3,6 +3,10 @@
 ## Overview
 This script is designed to automate the process of extracting detailed product information from the RV Supplies website. It fetches data for a range of product IDs, parsing and organizing product details, specifications, images, and documents into a structured Excel workbook. This document serves as a comprehensive guide to setting up, understanding, and running the script to obtain product data efficiently.
 
+## Video Preview
+
+[![Video Preview](https://github.com/DevRex-0201/Project-Images/blob/main/video%20preview/Py-RV-Supplies-Product-Data-Extraction.png)](https://drive.google.com/file/d/148HNhleMV8BNYH24GbkR_t2BSmpgJwVo/view?usp=drive_link)
+
 ## Requirements
 
 ### Software and Libraries
