@@ -5,7 +5,7 @@ This script is designed to automate the process of extracting detailed product i
 
 ## Video Preview
 
-[![Video Preview](https://github.com/DevRex-0201/Project-Images/blob/main/video%20preview/Py-RV-Supplies-Product-Data-Extraction.png)](https://drive.google.com/file/d/148HNhleMV8BNYH24GbkR_t2BSmpgJwVo/view?usp=drive_link)
+[![Video Preview](https://github.com/DevRex-0201/Project-Images/blob/main/video%20preview/Py-RV-Supplies-Product-Data-Extraction.png)](https://brand-car.s3.eu-north-1.amazonaws.com/Four+Seasons/Py-RV-Supplies-Product-Data-Extraction.mp4)
 
 ## Requirements
 
